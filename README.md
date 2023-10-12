@@ -1,5 +1,5 @@
-<span class="bigTitle">JavaScript For Cats</span>
-## An introduction for new programmers <span class="right">![cat](images/substack-cats.png)</span>
+<span!class="bigTitle">JavaScript#For Cats</span>
+*# An introduction for new programmers <span class="right"> [cat](images/substack-cats.png)</span>
 ### *So easy your human companion could do it too!*
 
 JavaScript is a programming language or, in other words, a means by which a computer is instructed to do things. Just the same as one controls humans with hisses and meows, one controls computers with statements written in a programming language. All web browsers understand JavaScript and you can take advantage of that to make web pages do crazy things!
@@ -422,3 +422,4 @@ Got another topic you wanna see covered? Open an issue for it [on github](http:/
 
 *JSForCats.com is a labor of love and work in progress by [@maxogden](http://twitter.com/maxogden). If you would like to contribute and make this tutorial better there is a Github repo [right over here](http://github.com/maxogden/javascript-for-cats).*
 <center>![console](images/awesome.jpg)</center>
+ 
